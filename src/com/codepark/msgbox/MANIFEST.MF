@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: Selami
+Main-Class: 
+Class-Path: .
+Name: MessageBox
+Specification-Title: MessageBox
+Specification-Version: 0.0.1
+Specification-Vendor: CodePark
+Licence: GPL v3
+Built-By: Selami
+Build-Jdk: 1.8.0_66
+Implementation-Title: MessageBox
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: MessageBox
+Implementation-Vendor: CodePark
